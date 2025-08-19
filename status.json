@@ -2,7 +2,7 @@
   "interval": 30000,
   "status": {
     "type": "LISTENING",
-    "state": "{userCount} people.",
+    "state": "SPD & TONY SERVER people.",
     "backup_state": "with {userCount} users",
     "url": "https://twitch.tv/lanya"
   }
